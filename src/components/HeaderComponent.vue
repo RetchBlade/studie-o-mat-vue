@@ -15,7 +15,7 @@
                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="#/about">About</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="work.html">Work</a>
@@ -55,5 +55,6 @@
   
   <style scoped>
   /* Add your styles here */
+  
   </style>
   

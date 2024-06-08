@@ -124,6 +124,6 @@
   </script>
   
   <style scoped>
-  /* Gerekirse bileşen özel CSS stilleri buraya eklenebilir */
+  
   </style>
   
